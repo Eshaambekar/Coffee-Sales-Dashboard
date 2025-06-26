@@ -30,7 +30,7 @@ Average Items per Transaction =
 **Regular-sized drinks made up the largest share of quantity sold.**
 **Most transactions occurred on Fridays and weekends.** 
 
-**🙋‍♀️ About Me**
+## 🙋‍♀️ About Me
 I'm an aspiring data analyst skilled in Power BI, Excel, and SQL. This project demonstrates my ability to build interactive dashboards and extract actionable insights from raw data.
 
 🔗 Connect with me on LinkedIn
