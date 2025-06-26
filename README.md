@@ -22,8 +22,8 @@ This Power BI project provides an interactive dashboard for analyzing coffee sal
 Total Quantity Sold = SUM(Transactions[transaction_qty])
 
 Average Items per Transaction = 
-    [Total Quantity Sold] / [Count of Transactions] 
-
+    [Total Quantity Sold] / [Count of Transactions]
+```
 ## 💡 Key Insights
 **Coffee is the top-performing product category.**
 **June recorded the highest monthly sales.**
