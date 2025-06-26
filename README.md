@@ -25,10 +25,10 @@ Average Items per Transaction =
     [Total Quantity Sold] / [Count of Transactions]
 ```
 ## 💡 Key Insights
-**Coffee is the top-performing product category.**
-**June recorded the highest monthly sales.**
-**Regular-sized drinks made up the largest share of quantity sold.**
-**Most transactions occurred on Fridays and weekends.** 
+- **Coffee is the top-performing product category.**
+- **June recorded the highest monthly sales.**
+- **Regular-sized drinks made up the largest share of quantity sold.**
+- **Most transactions occurred on Fridays and weekends.** 
 
 ![Coffee Sales Dashoard](https://github.com/user-attachments/assets/c548a1cf-9072-43d8-aa4d-06118d8d963a)
 
