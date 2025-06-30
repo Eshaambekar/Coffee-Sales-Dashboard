@@ -4,7 +4,7 @@ This Power BI project provides an interactive dashboard for analyzing coffee sal
 
 ## 📸 Dashboard Preview
 
-![image](https://github.com/user-attachments/assets/779324db-1e40-47e7-822d-749dad10444b)
+![Coffee Sales Dashoard](https://github.com/user-attachments/assets/0b73c200-aa24-46da-89f6-8668d928d4e2)
 
 ---
 
