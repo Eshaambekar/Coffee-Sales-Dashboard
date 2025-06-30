@@ -2,6 +2,12 @@
 
 This Power BI project provides an interactive dashboard for analyzing coffee sales data. It allows stakeholders to gain insights into sales performance across various product types, sizes, time periods, and store locations.
 
+## 📸 Dashboard Preview
+
+![image](https://github.com/user-attachments/assets/779324db-1e40-47e7-822d-749dad10444b)
+
+---
+
 ## 📊 Key Features
 
 - 📈 **Total Sales & Transaction Count Overview**
